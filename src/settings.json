@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Join a community where ideas transform into revolutionary solutions. Dive in and start creating your future today with dsadsa.",
+        "title": "Discover dsadsa: Your Gateway to Innovation"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Join a community where ideas transform into revolutionary solutions. Dive in and start creating your future today with dsadsa.",
+        "title": "Discover dsadsa: Your Gateway to Innovation"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Join a community where ideas transform into revolutionary solutions. Dive in and start creating your future today with dsadsa.",
+        "title": "Discover dsadsa: Your Gateway to Innovation"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Join a community where ideas transform into revolutionary solutions. Dive in and start creating your future today with dsadsa.",
+        "title": "Discover dsadsa: Your Gateway to Innovation"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Join a community where ideas transform into revolutionary solutions. Dive in and start creating your future today with dsadsa.",
+        "title": "Discover dsadsa: Your Gateway to Innovation"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Join a community where ideas transform into revolutionary solutions. Dive in and start creating your future today with dsadsa.",
+        "title": "Discover dsadsa: Your Gateway to Innovation"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Join a community where ideas transform into revolutionary solutions. Dive in and start creating your future today with dsadsa.",
+        "title": "Discover dsadsa: Your Gateway to Innovation"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Join a community where ideas transform into revolutionary solutions. Dive in and start creating your future today with dsadsa.",
+        "title": "Discover dsadsa: Your Gateway to Innovation"
+      }
+    }
+  ],
+  "theme": "gradient",
+  "font": "",
+  "title": "Discover dsadsa: Your Gateway to Innovation",
+  "subtitle": "Join a community where ideas transform into revolutionary solutions. Dive in and start creating your future today with dsadsa."
+}
